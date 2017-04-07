@@ -1,0 +1,10 @@
+<portfolio>
+        <stocks>
+          <stock x1="x11">AAPL</stock>
+          <stock>AMZN</stock>
+          <stock>GOOG</stock>
+        </stocks>
+        <reits>
+          <reit>Super REIT 1</reit>
+        </reits>
+      </portfolio>
